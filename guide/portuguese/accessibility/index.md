@@ -23,5 +23,5 @@ Assim como o texto Alt é para pessoas com deficiência visual, as transcriçõe
 Copyright © 2005 [World Wide Web Consortium](http://www.w3.org) , ( [MIT](http://www.csail.mit.edu/) , [ERCIM](http://www.ercim.org) , [Keio](http://www.keio.ac.jp) , [Beihang](http://ev.buaa.edu.cn) ). http://www.w3.org/Consortium/Legal/2015/doc-license
 
 ### Mais Informações:
-
+![alt text](https://www.w3.org/WAI/images/wai-temp "WAI")
 [w3.org introdução à acessibilidade.](https://www.w3.org/WAI/intro/accessibility.php) [O projeto A11Y](http://a11yproject.com/)
