@@ -48,7 +48,7 @@ int main(void)
  } 
 ```
 
-Este código declara a função principal. A função principal é especial - sempre será chamada e é sempre a parte 'principal' do seu programa. Se isso não estiver no seu programa, seu programa não poderá ser executado e não será compilado.
+Este código declara a função principal. A função principal é especial - sempre será chamada e é sempre a parte 'principal' do seu programa. Se isso não estiver no seu programa, seu programa não poderá ser executado e também não será compilado.
 
 Iniciar a declaração de função com `int` significa que essa função fornecerá um valor `int` quando for executada através de seu código - é a saída desta função. `int` é o tipo de dados 'inteiro' e inteiros são números inteiros como -3, 0 ou 18. Então sabemos que esse código será executado e, quando estiver pronto, nos retornará um número inteiro. Por convenção, esse inteiro é 0.
 
